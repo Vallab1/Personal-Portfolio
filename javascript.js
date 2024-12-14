@@ -36,3 +36,81 @@ document.getElementById('button-download').addEventListener('click', function() 
 
 
 
+document.getElementById('button-download').addEventListener('click', function() {
+    const link = document.createElement('a');
+    
+    link.href = '"E:/Document/Baijnath/Baijnath.pdf"';
+    
+    link.download = 'My_Resume.pdf';
+    
+    document.body.appendChild(link);
+    
+    link.click();
+    
+    document.body.removeChild(link);
+});
+
+document.getElementById('button-download').addEventListener('click', function() {
+    const link = document.createElement('a');
+    
+    link.href = '"E:/Document/Baijnath/Baijnath.pdf"';
+    
+    link.download = 'My_Resume.pdf';
+    
+    document.body.appendChild(link);
+    
+    link.click();
+    
+    document.body.removeChild(link);
+});
+
+
+
+document.getElementById('button-download').addEventListener('click', function() {
+    const link = document.createElement('a');
+    
+    link.href = '"E:/Document/Baijnath/Baijnath.pdf"';
+    
+    link.download = 'My_Resume.pdf';
+    
+    document.body.appendChild(link);
+    
+    link.click();
+    
+    document.body.removeChild(link);
+});
+
+
+
+document.getElementById('button-download').addEventListener('click', function() {
+    const link = document.createElement('a');
+    
+    link.href = '"E:/Document/Baijnath/Baijnath.pdf"';
+    
+    link.download = 'My_Resume.pdf';
+    
+    document.body.appendChild(link);
+    
+    link.click();
+    
+    document.body.removeChild(link);
+});
+document.getElementById('button-download').addEventListener('click', function() {
+    const link = document.createElement('a');
+    
+    link.href = '"E:/Document/Baijnath/Baijnath.pdf"';
+    
+    link.download = 'My_Resume.pdf';
+    
+    document.body.appendChild(link);
+    
+    link.click();
+    
+    document.body.removeChild(link);
+});
+
+
+
+
+
+
